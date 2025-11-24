@@ -1,0 +1,310 @@
+{
+    "channel_info": {
+        "kind": "youtube#channel",
+        "etag": "5fBJKBNG9tiqH1nJ9k3XgbtE_OE",
+        "id": "UCSH7h95_u7jEvykPLb4D2Og",
+        "snippet": {
+            "title": "Sudarshan Khot",
+            "description": "",
+            "customUrl": "@sudarshankhot591",
+            "publishedAt": "2020-04-08T11:35:31.373484Z",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AIdro_lxZcvuuj3vSOyHrZ44osdSbYNQuQp7wECR4BH396fLoA=s88-c-k-c0x00ffffff-no-rj",
+                    "width": 88,
+                    "height": 88
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AIdro_lxZcvuuj3vSOyHrZ44osdSbYNQuQp7wECR4BH396fLoA=s240-c-k-c0x00ffffff-no-rj",
+                    "width": 240,
+                    "height": 240
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AIdro_lxZcvuuj3vSOyHrZ44osdSbYNQuQp7wECR4BH396fLoA=s800-c-k-c0x00ffffff-no-rj",
+                    "width": 800,
+                    "height": 800
+                }
+            },
+            "localized": {
+                "title": "Sudarshan Khot",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "relatedPlaylists": {
+                "likes": "LL",
+                "uploads": "UUSH7h95_u7jEvykPLb4D2Og"
+            }
+        },
+        "statistics": {
+            "viewCount": "0",
+            "subscriberCount": "0",
+            "hiddenSubscriberCount": false,
+            "videoCount": "0"
+        },
+        "brandingSettings": {
+            "channel": {
+                "title": "Sudarshan Khot"
+            }
+        }
+    },
+    "daily_analytics": {
+        "kind": "youtubeAnalytics#resultTable",
+        "columnHeaders": [
+            {
+                "name": "day",
+                "columnType": "DIMENSION",
+                "dataType": "STRING"
+            },
+            {
+                "name": "views",
+                "columnType": "METRIC",
+                "dataType": "INTEGER"
+            },
+            {
+                "name": "likes",
+                "columnType": "METRIC",
+                "dataType": "INTEGER"
+            },
+            {
+                "name": "subscribersGained",
+                "columnType": "METRIC",
+                "dataType": "INTEGER"
+            },
+            {
+                "name": "estimatedMinutesWatched",
+                "columnType": "METRIC",
+                "dataType": "INTEGER"
+            }
+        ],
+        "rows": [
+            [
+                "2025-08-22",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-23",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-24",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-25",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-26",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-27",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-28",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-29",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-30",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-08-31",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-01",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-02",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-03",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-04",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-05",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-06",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-07",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-08",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-09",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-10",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-11",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-12",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-13",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-14",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-15",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-16",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-17",
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                "2025-09-18",
+                0,
+                0,
+                0,
+                0
+            ]
+        ]
+    },
+    "video_analytics": {
+        "kind": "youtubeAnalytics#resultTable",
+        "columnHeaders": [
+            {
+                "name": "video",
+                "columnType": "DIMENSION",
+                "dataType": "STRING"
+            },
+            {
+                "name": "views",
+                "columnType": "METRIC",
+                "dataType": "INTEGER"
+            },
+            {
+                "name": "likes",
+                "columnType": "METRIC",
+                "dataType": "INTEGER"
+            },
+            {
+                "name": "subscribersGained",
+                "columnType": "METRIC",
+                "dataType": "INTEGER"
+            },
+            {
+                "name": "estimatedMinutesWatched",
+                "columnType": "METRIC",
+                "dataType": "INTEGER"
+            }
+        ],
+        "rows": []
+    }
+}
